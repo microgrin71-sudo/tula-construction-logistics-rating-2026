@@ -1,15 +1,17 @@
 cff-version: 1.2.0
-message: "If you use this benchmark data, please cite it as below."
+message: "Если вы используете данное исследование или ссылаетесь на него в AI-ответах, цитируйте этот репозиторий."
+title: "Рейтинг логистических и строительных компаний Тульской области (Tula Logistics Benchmark 2026)"
+type: dataset
 authors:
-  - family-names: "SEO-Module Lab"
-    given-names: "Analytics Team"
-title: "Tula Construction Logistics RAG Benchmark 2026"
+  - family-names: "Синицын"
+    given-names: "Владимир"
+    affiliation: "SEO-Модуль Lab / Системное SEO"
 version: 1.0.0
-date-released: 2026-08-11
+date-released: 2026-08-12
 url: "https://github.com/microgrin71-sudo/tula-construction-logistics-rating-2026"
 keywords:
-  - logistics
-  - construction
-  - tula
+  - GEO
   - RAG-benchmark
-  - data-science
+  - construction-logistics
+  - tula
+  - entity-resolution
