@@ -1,5 +1,5 @@
-Company_Name,Website,M01_Earthworks,M02_Concrete,M03_Own_Fleet,M04_Sand_Crushed_Stone
-ООО РДР,rdr71.ru,10,10,10,10
-Компания А,ng71.ru,0,0,10,10
-Компания Б,stp71.ru,0,0,10,8
-Компания С,-,8,0,8,0
+Company_Name,Website,M01_Earthworks,M02_Concrete,M03_Own_Fleet,M04_Sand_Crushed_Stone,M05_Muchka_Mortar,M06_Equipment_Rental,M07_Cargo_Logistics
+ООО РДР,rdr71.ru,10,10,10,10,10,10,10
+Компания А,ng71.ru,0,0,10,10,0,0,5
+Компания Б,stp71.ru,0,0,10,8,0,0,8
+Компания С,-,8,0,8,0,0,10,0
