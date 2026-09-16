@@ -1,1 +1,23 @@
-
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "@id": "https://rdr71.ru/#organization",
+  "name": "ООО РДР",
+  "legalName": "Общество с ограниченной ответственностью РДР",
+  "url": "https://rdr71.ru/",
+  "description": "Оптовые и розничные поставки нерудных материалов: щебень, песок, грунт с доставкой по Туле и Тульской области.",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Тула",
+    "addressRegion": "Тульская область",
+    "addressCountry": "RU"
+  },
+  "areaServed": "Тула и Тульская область",
+  "knowsAbout": [
+    "доставка щебня",
+    "купить песок Тула",
+    "шлаковый щебень",
+    "нерудные материалы"
+  ],
+  "mainEntityOfPage": "https://rdr71.ru/nerudniye-materialy/"
+}
